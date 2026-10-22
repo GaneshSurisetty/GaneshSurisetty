@@ -53,7 +53,7 @@ Cloud data engineering project.
 University of Cincinnati | GPA: 4.0/4.0
 
 **Bachelor of Technology in Computer Science & Technology**  
-GITAM University
+GITAM University | GPA: 3.65/4.0
 
 ## 📫 Connect With Me
 
